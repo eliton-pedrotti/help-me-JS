@@ -19,10 +19,6 @@ class File extends Model {
 
         return this;
     }
-
-    // static associate(models) {
-    //     this.belongsTo(models.HelpImage, { foreignKey: 'file_id' });
-    // }
 }
 
 export default File;

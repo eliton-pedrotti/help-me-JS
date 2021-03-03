@@ -4,7 +4,7 @@ module.exports = {
     host: 'localhost',
     username: 'postgres',
     password: 'docker',
-    database: 'helpme3',
+    database: 'help_me',
     define: {
         timestamps: true,
         underscored: true,
